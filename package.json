@@ -1,0 +1,20 @@
+{
+  "name": "@jenssimon/cra-template-typescript",
+  "version": "1.0.0",
+  "description": "A typescript template for Create React App.",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "jenssimon"
+  ],
+  "repository": "https://github.com/jenssimon/cra-template-typescript.git",
+  "author": "Jens Simon <https://github.com/jenssimon>",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "private": false
+}

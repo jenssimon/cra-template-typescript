@@ -1,0 +1,3 @@
+{
+  "extends": "@jenssimon/stylelint-config/order"
+}
