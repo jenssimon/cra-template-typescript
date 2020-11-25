@@ -12,7 +12,7 @@
       "web-vitals": "^0.2.4"
     },
     "devDependencies": {
-      "@jenssimon/eslint-config-base": "^2.1.0",
+      "@jenssimon/eslint-config-base": "^3.0.0",
       "@jenssimon/eslint-config-typescript": "^2.0.0",
       "@jenssimon/stylelint-config": "^1.2.1",
       "@testing-library/dom": "^7.26.6",
@@ -24,7 +24,6 @@
       "eslint-config-airbnb-base": "^14.2.1",
       "eslint-formatter-pretty": "^4.0.0",
       "eslint-plugin-babel": "^5.3.1",
-      "eslint-plugin-dollar-sign": "^1.0.2",
       "eslint-plugin-eslint-comments": "^3.2.0",
       "eslint-plugin-import": "^2.22.1",
       "eslint-plugin-jest": "^24.1.0",
@@ -34,7 +33,8 @@
       "eslint-plugin-promise": "^4.2.1",
       "eslint-plugin-react": "^7.21.5",
       "eslint-plugin-react-hooks": "^4.2.0",
-      "eslint-plugin-you-dont-need-lodash-underscore": "^6.10.0",
+      "eslint-plugin-react-redux": "^3.3.0",
+      "eslint-plugin-sonarjs": "^0.5.0",
       "npm-run-all": "^4.1.5",
       "stylelint": "^13.7.2"
     },
@@ -49,7 +49,7 @@
         "project": "tsconfig.json"
       },
       "extends": [
-        "@jenssimon/base/frontend-modern",
+        "@jenssimon/base/frontend-react",
         "@jenssimon/typescript"
       ]
     }
