@@ -23,7 +23,7 @@ For more information, please refer to:
 
 ## License
 
-MIT © 2020 [Jens Simon](https://github.com/jenssimon)
+MIT © 2021 [Jens Simon](https://github.com/jenssimon)
 
 [npm-url]: https://www.npmjs.com/package/@jenssimon/cra-template-typescript
 [npm-image]: https://badgen.net/npm/v/@jenssimon/cra-template-typescript
